@@ -1,0 +1,1 @@
+![Screenshot](Screenshots/descargarManga.png)
